@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Matrix Operations\bin\Debug\Matrix Operations.exe.config
+C:\Users\DELL\source\repos\Matrix Operations\bin\Debug\Matrix Operations.exe
+C:\Users\DELL\source\repos\Matrix Operations\bin\Debug\Matrix Operations.pdb
+C:\Users\DELL\source\repos\Matrix Operations\obj\Debug\Matrix Operations.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Matrix Operations\obj\Debug\Matrix Operations.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Matrix Operations\obj\Debug\Matrix Operations.exe
+C:\Users\DELL\source\repos\Matrix Operations\obj\Debug\Matrix Operations.pdb
